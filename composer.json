@@ -1,0 +1,14 @@
+{
+    "name": "xiaoyangbin/test",
+    "description": "test",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "xiaoyang",
+            "email": "940575530@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
